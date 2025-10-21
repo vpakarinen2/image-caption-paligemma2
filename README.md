@@ -1,1 +1,1 @@
-## Jupyter notebook file to use EmbeddingGemma.
+## Jupyter notebook file to use PaliGemma2.
